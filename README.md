@@ -12,14 +12,6 @@ For this assessment, you'll be working on Flatdango. Flatiron Movie Theater is o
 - Disk space >= 1GB
 
 
-## Demo
-
-Use this gif as an example of how the app should work.
-
-![Flatdango App Demo](https://curriculum-content.s3.amazonaws.com/phase-1/phase-1-code-challenge-flatdango/flatdango-demo.gif)
-
-> To view in VSCode, right click on the README.md file and select "Open Preview".
-
 ## Setup
 
 Run this command to get the backend started:
@@ -186,6 +178,12 @@ attempting the bonus deliverables!**
 
   ### Credits
 This was an individual project by Mark njau 
+
+
+## DEPLOYED BACKEND LINK.
+[LINK](https://wk3-code-challenge-movie-ticket-booking-nine.vercel.app/)
+
+
 
 
 
