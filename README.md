@@ -180,10 +180,6 @@ attempting the bonus deliverables!**
 This was an individual project by Mark njau 
 
 
-## DEPLOYED BACKEND LINK.
-[LINK](https://wk3-code-challenge-movie-ticket-booking-nine.vercel.app/)
-
-
 
 
 
