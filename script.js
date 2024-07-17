@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     fetchFilms();
 });//adding an event listener that calls the fetchFilms function once DOM content is loaded.
 function fetchFilms() {
-    fetch("http://localhost:3000/films")//using fetch() to send  a GET request to our json server.
+    fetch("https://backend-hazel-omega.vercel.app/films")//using fetch() to send  a GET request to our json server.
         .then(response => response.json())
         .then(data => {//calling on multiple functions after the dom content loads.
             displayFirstMovieInformation(data);
