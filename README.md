@@ -181,7 +181,7 @@ This was an individual project by Mark njau
 
 
 ### Backend link
-[LINK](https://wk3-code-challenge-movie-ticket-booking-flax.vercel.app/)
+[LINK](https://vercel.com/niggaferges-projects/wk3-code-challenge-movie-ticket-booking)
 
 
 
